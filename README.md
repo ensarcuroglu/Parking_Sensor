@@ -1,14 +1,14 @@
 # Parking_Sensor
 
-Malzemeler
-•	Arduino Uno
-•	Breadboard
-•	Buzzer
-•	Ultrasonik Sensör(HC-SR04)
-•	4 Adet Direnç
-•	3 Adet Led (kırmızı,yeşil,sarı)
-•	10 Adet Kablo
-•	USB Bağlantı Kablosu
+# Malzemeler
+    •	Arduino Uno
+    •	Breadboard
+    •	Buzzer
+    •	Ultrasonik Sensör(HC-SR04)
+    •	4 Adet Direnç
+    •	3 Adet Led (kırmızı,yeşil,sarı)
+    •	10 Adet Kablo
+    •	USB Bağlantı Kablosu
 
 # Projenin Amacı
 Bu proje, ultrasonik sensör kullanarak mesafeyi ölçer ve bu mesafeye göre LED'leri yakarak ve bir buzzer ile ses çıkararak kullanıcıya görsel ve işitsel uyarı sağlar.
